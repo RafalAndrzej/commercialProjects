@@ -1,0 +1,12 @@
+.section {
+   max-width: 55rem;
+   margin: 2rem auto;
+   padding: 0 2rem;
+   font-size: var(--fz-normal);
+   line-height: var(--lh-normal);
+   overflow: hidden;
+}
+
+.section > div {
+   margin: auto 0;
+}

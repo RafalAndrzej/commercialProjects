@@ -1,0 +1,40 @@
+.footer {
+   margin: 3rem 2rem;
+}
+
+.wrapper {
+   display: flex;
+   flex-wrap: nowrap;
+   column-gap: 1.5rem;
+   max-width: 55rem;
+   margin: 0 auto;
+}
+
+.wrapper img {
+   flex-basis: 0;
+}
+
+.box {
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: column;
+   flex-basis: 100%;
+
+   column-gap: 2rem;
+   row-gap: 1rem;
+}
+
+@media screen and (min-width: 600px) {
+   .box {
+      flex-direction: row;
+   }
+}
+@media screen and (max-width: 599px) {
+   .box div {
+      flex-basis: 100%;
+   }
+}
+
+.links a {
+   display: block;
+}

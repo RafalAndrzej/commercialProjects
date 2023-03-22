@@ -1,0 +1,16 @@
+.error {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   width: 100vw;
+   height: calc(100vh - 360px);
+   text-align: center;
+
+   font-size: var(--fz-heading);
+   line-height: var(--lh-heading);
+}
+
+.error .text > p {
+   margin: 1.5rem;
+}

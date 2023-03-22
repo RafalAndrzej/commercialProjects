@@ -1,0 +1,17 @@
+.rodo {
+   display: flex;
+   flex-direction: column;
+   row-gap: 0.3rem;
+}
+
+.rodo h1 {
+   font-size: var(--fz-heading);
+   line-height: var(--lh-heading);
+}
+
+.rodo ol {
+   margin-left: 1rem;
+}
+.rodo li {
+   margin: 0.5rem 0;
+}

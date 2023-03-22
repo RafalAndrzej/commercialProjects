@@ -1,0 +1,18 @@
+.header {
+   position: relative;
+   width: max-content;
+   margin: 1rem 0;
+}
+.header::after {
+   content: '';
+   position: absolute;
+   width: 100%;
+   height: 1px;
+   background-color: var(--background-second-color);
+   left: 0;
+   bottom: -2px;
+}
+
+.text {
+   margin: 0.5rem 0;
+}

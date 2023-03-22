@@ -1,0 +1,32 @@
+.wrapper {
+   display: flex;
+   flex-wrap: wrap;
+   margin: 2rem 0;
+   row-gap: 2rem;
+}
+
+@media screen and (min-width: 700px) {
+   .wrapper {
+      column-gap: 5%;
+   }
+}
+
+.page-number {
+   display: flex;
+   column-gap: 0.5rem;
+   cursor: pointer;
+   padding-top: 2rem;
+}
+
+.page-number span {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 20px;
+   height: 30px;
+   opacity: 0.5;
+}
+
+.page-number span.active {
+   opacity: 1;
+}

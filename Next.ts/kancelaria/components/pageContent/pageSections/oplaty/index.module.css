@@ -1,0 +1,11 @@
+.box > ul {
+   margin-left: 1.5rem;
+}
+
+.box > p {
+   margin-bottom: 0.5rem;
+}
+
+.textWithLink {
+   display: inline;
+}

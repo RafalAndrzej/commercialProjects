@@ -1,0 +1,9 @@
+.img-box {
+   position: relative;
+   width: 100vw;
+}
+
+.img-box img {
+   object-fit: cover;
+   opacity: 0.8;
+}

@@ -1,0 +1,20 @@
+.wrapper {
+   position: relative;
+}
+
+.wrapper-mobile > main,
+.wrapper-mobile > ul {
+   padding-top: 6rem;
+}
+
+@media screen and (min-width: 800px) {
+   .wrapper {
+      margin: 0 auto;
+   }
+}
+
+@media screen and (max-width: 800px) {
+   .wrapper {
+      max-width: 100%;
+   }
+}

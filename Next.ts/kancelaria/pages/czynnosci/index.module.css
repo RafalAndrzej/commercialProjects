@@ -1,0 +1,8 @@
+.menuList {
+   list-style: none;
+   margin-top: 3rem;
+}
+.menuList li {
+   margin: 0.8rem 0;
+   font-size: var(--fz-menuList);
+}

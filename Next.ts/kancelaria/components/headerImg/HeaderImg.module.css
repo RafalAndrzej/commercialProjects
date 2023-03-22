@@ -1,0 +1,53 @@
+.header {
+   position: relative;
+   display: flex;
+   align-items: center;
+   overflow: hidden;
+}
+
+.header.index {
+   flex-basis: 75% !important;
+}
+
+.bgIndexBox,
+.bgKontaktBox {
+   position: absolute;
+   right: 0;
+   top: 0;
+   background-color: var(--background-black);
+   height: 100%;
+   width: 80%;
+}
+
+.header.index > .bgIndexBox {
+   width: 100%;
+}
+
+.bgIndexBox::after,
+.bgKontaktBox::after {
+   content: '';
+   display: block;
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   top: 0;
+   right: 0;
+}
+
+.bgIndexBox::after {
+   background: url('/img/pagesPictures/headerImg.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: top right;
+}
+
+.bgKontaktBox::after {
+   background: url('/img/photos/photoRazem.jpg');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: top;
+}
+
+.instagram {
+   margin: 2rem 0 0 20%;
+}

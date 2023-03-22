@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'SokolskaNormal';
+   src: url('/fonts/TWKLausanne-250.woff2') format('woff2');
+   font-weight: 250;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'SokolskaBold';
+   src: url('/fonts/TWKLausanne-500.woff2') format('woff2');
+   font-weight: 500;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'SokolskaLogo';
+   src: url('/fonts/gallerymodern.ttf') format('woff2');
+}

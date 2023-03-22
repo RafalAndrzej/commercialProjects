@@ -1,0 +1,33 @@
+.event {
+   display: flex;
+   flex-direction: column;
+   row-gap: 0.5rem;
+   align-items: center;
+}
+
+.box {
+   position: relative;
+   width: 100%;
+}
+
+.box img {
+   object-fit: contain;
+   opacity: 0.8;
+}
+
+@media screen and (min-width: 700px) {
+   .event {
+      flex-basis: 47.5%;
+   }
+   .box {
+      height: 20rem;
+   }
+}
+@media screen and (max-width: 699px) {
+   .event {
+      flex-basis: 100%;
+   }
+   .box {
+      height: 10rem;
+   }
+}

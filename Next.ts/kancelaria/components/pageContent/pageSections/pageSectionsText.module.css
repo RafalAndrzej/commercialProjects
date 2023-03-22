@@ -1,0 +1,99 @@
+section.desktop {
+   position: relative;
+
+   display: flex;
+   justify-content: flex-end;
+
+   max-width: unset;
+   margin: 0;
+   padding: 0;
+   transform: translateY(-140px);
+   margin-bottom: -140px;
+}
+
+section.desktop > div {
+   flex-basis: 45%;
+   display: flex;
+   flex-direction: column;
+}
+
+section.desktop > div:first-child {
+   max-width: 500px;
+}
+
+section.desktop div:last-child {
+   max-height: 600px;
+   margin-top: auto;
+}
+section.desktop div:last-child img {
+   opacity: 0.6;
+   object-position: top;
+}
+
+section.desktop > div.index {
+   flex-basis: 15%;
+}
+
+section.desktop .instagram {
+   margin: 0 2rem;
+}
+
+.header,
+.assideHeader {
+   position: relative;
+
+   font-size: var(--fz-heading);
+   line-height: var(--lh-heading);
+   font-weight: 250;
+}
+
+.header::after {
+   content: '';
+   display: block;
+   position: absolute;
+   top: 50%;
+   left: 0;
+   height: 2px;
+   width: 20px;
+   background-color: var(--background-second-color);
+   transform: translate(-2rem, 1px);
+   opacity: 0.5;
+}
+
+.text {
+   margin: 1.5rem 0;
+}
+
+.textOl {
+   margin-left: 2rem;
+   margin-bottom: 1rem;
+}
+
+.main-content {
+   flex-basis: 40%;
+}
+
+.img-box {
+   flex-basis: 60%;
+   position: relative;
+   width: calc(100vw * 0.4);
+   height: 680px;
+}
+
+.img-box img {
+   object-fit: cover;
+   object-position: top;
+   opacity: 0.7;
+}
+
+@media screen and (max-width: 599px) {
+   .main-content {
+      order: 1;
+   }
+
+   .img-box {
+      width: 100vw;
+      height: 50vh;
+      flex-basis: unset;
+   }
+}

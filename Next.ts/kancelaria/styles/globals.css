@@ -1,0 +1,81 @@
+:root {
+   /* background color */
+   --background-main-color: #3a4139;
+   --background-second-color: #cdb5a7;
+   --background-black: #000;
+
+   /* text color */
+   --text-main-color: #cdb5a7;
+   --text-second-color: #3a4139;
+   --text-error-color: #cc3300;
+
+   /* font size */
+   --fz-normal: 0.8rem;
+   --fz-menuList: 1.2rem;
+   --fz-heading: 1.9rem;
+   --fz-logo: 4rem;
+   --fz-logo-phone: 9vw;
+
+   /* line height */
+   --lh-normal: 1.3rem;
+   --lh-heading: 2.3rem;
+
+   /* letter spacing */
+   --ls-logo: 1.2rem;
+}
+
+body {
+   font-family: 'SokolskaNormal';
+   font-size: var(--fz-normal);
+   line-height: var(--lh-normal);
+   background-color: var(--background-main-color);
+   color: var(--text-main-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-weight: 250;
+   line-height: normal;
+}
+
+h1.header {
+   position: absolute;
+   top: 50%;
+   font-family: 'SokolskaLogo';
+   font-size: var(--fz-logo-phone);
+   transform: translate(1rem, -50%);
+   z-index: 100;
+}
+@media screen and (min-width: 650px) {
+   h1.header {
+      font-size: var(--fz-logo);
+      transform: translate(3rem, -50%);
+      letter-spacing: var(--ls-logo);
+   }
+}
+
+button {
+   background-color: transparent;
+   font-family: 'SokolskaNormal';
+   cursor: pointer;
+}
+
+*,
+*::after,
+*::before {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+a,
+a.link,
+a.visited,
+a.active {
+   text-decoration: none;
+   color: currentColor;
+}

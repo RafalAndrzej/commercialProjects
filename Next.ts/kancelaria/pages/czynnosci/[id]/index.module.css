@@ -1,0 +1,22 @@
+.header {
+   font-size: var(--fz-heading);
+   line-height: var(--lh-heading);
+   font-weight: 250;
+   margin-left: 8%;
+   letter-spacing: 0.24rem;
+}
+
+@media screen and (max-width: 800px) {
+   .header {
+      font-size: var(--fz-menuList);
+   }
+}
+
+.header::after {
+   content: '';
+   display: block;
+   margin: 1.5rem 0 2rem 0;
+   width: 100vw;
+   transform: translateX(-8%);
+   border-bottom: 1px solid var(--background-second-color);
+}

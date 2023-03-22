@@ -1,0 +1,378 @@
+{
+   "oNas": {
+      "mainPersons": [
+         {
+            "name": "Alicja Świergot",
+            "text": [
+               "Notariusz Alicja Świergot w 2010 roku ukończyła prawo na Wydziale Prawa i Administracji Uniwersytetu Śląskiego w Katowicach. W latach 2011 - 2014 odbyła aplikację notarialną w Izbie Notarialnej w Katowicach, jednak zawodowo z notariatem związana jest od 2008 roku. Praca w kancelarii notarialnej pozwoliła notariusz Alicji Świergot zdobyć niezbędną wiedzę i praktyczne przygotowanie do zawodu w obszarze różnych dziedzin prawa, z którymi na co dzień pracuje notariusz.",
+               "Notariusz Alicja Świergot zakończyła aplikację notarialną w 2014 roku pozytywnym wynikiem z egzaminu notarialnego. Od 2014 roku zdobywała doś-wiadczenie jako zastępca notarialny w kancelariach na Śląsku.",
+               "Alicja Świergot w 2015 roku została decyzją Ministra Sprawiedliwości po-wołana na stanowisko notariusza. W 2015 roku rozpoczęła działalność jako notariusz w Kancelarii Notarialnej w Katowicach przy ulicy Stawowej 8/5, a od października 2022 roku prowadzi Kancelarię Notarialną w formie spółki cywilnej z notariusz Karoliną Pawełczyk w nowej siedzibie w Katowicach przy ulicy Sokolskiej 30/U11.",
+               "Prywatnie miłośniczka podróży i czterech łap, a najlepiej czterech łap w podróży. swiergot@notariusze-sokolska.pl"
+            ],
+            "email": "E: biuro@notariusze-sokolska.pl",
+            "imgSrc": "/img/photos/photoAlicja",
+            "imgSrcBlur": ""
+         },
+         {
+            "name": "Karolina Pawełczyk",
+            "text": [
+               "W 2012 roku ukończyła prawo na Wydziale Prawa i Administracji Uniwersytetu Śląskiego w Katowicach. W latach 2015 -2019 odbyła  aplikację notarialną w Izbie Notarialnej w Katowicach pod patronatem  notariusz Alicji Świergot. Doświadczenie zawodowe i praktyczne przygotowanie do zawodu zdobywała już jako studentka zarówno  w kancelariach adwokackich jak i notarialnych. Notariusz Karolina  Pawełczyk zakończyła aplikację notarialną w 2019 roku pozytywnym wynikiem z egzaminu notarialnego.",
+               "Notariusz Karolina Pawełczyk z Kancelarią Notariusz Alicji Świergot związana jest od samego początku jej działalności, w ostatnich latach jako jej zastępca notarialny jak i w innych kancelariach na Śląsku.",
+               "Karolina Pawełczyk w 2022 roku została decyzją Ministra Sprawiedliwości powołana na stanowisko notariusza. Od października 2022 roku prowadzi Kancelarię Notarialną w formie spółki cywilnej z notariusz Alicją Świergot w siedzibie w Katowicach przy ulicy Sokolskiej 30/U11.",
+               "Prywatnie wielbicielka tradycyjnej medycyny chińskiej."
+            ],
+            "email": "E: biuro@notariusze-sokolska.pl",
+            "imgSrc": "/img/photos/photoKarolina",
+            "imgSrcBlur": ""
+         }
+      ],
+      "restPersons": [
+         {
+            "name": "Marta Borkowska",
+            "text": [
+               "Absolwentka prawa na Wydziale Prawa i Administracji Uniwersytetu Śląskiego w Katowicach. Od ponad sześciu lat związana z notariatem, w tym od 2019 roku jako aplikantka notarialna w Izbie Notarialnej w Katowicach pod patronatem notariusz Alicji Świergot, podczas której uzyskała pozytywny wynik z kolokwium, co dało jej możliwość dokonywania wybranych czynności notarialnych.",
+               "W naszej Kancelarii aplikant Marta Borkowska dba razem z notariuszami o zaplecze merytoryczne, udzielając niezbędnych informacji w związku z dokonywanymi czynnościami oraz przygotowuje projekty aktów notarialnych, a jednocześnie odciąża notariuszy w czynnościach poświadczeniowych. Specjalizuje się w szeroko pojętym prawie cywilnym, w szcze-gólności związanym z obrotem nieruchomościami, dziedziczeniem i majątkowymi ustrojami małżeńskimi.",
+               "Prywatnie pasjonatka górskich wypraw, sportów zimowych i dobrej kuchni."
+            ]
+         },
+         {
+            "name": "Aleksandra Błoch",
+            "text": [
+               "Absolwentka studiów licencjackich kierunek administracja na Wydziale Prawa i Administracji Uniwersytetu Śląskiego w Katowicach, studentka studiów magisterskich na Akademii Górnośląskiej im. Wojciecha Korfantego w Katowicach kierunek administracja ze specjalizacją polityka kadrowo-płacowa w podmiotach publicznych i niepublicznych.",
+               "W naszej Kancelarii jako asystent notariuszy dba o zaplecze administracyjne ich pracy, a także służy pomocą w kontaktach z klientami. Dzięki łączeniu studiów z codzienną pracą w Kancelarii zdobywa wiedzę i doświadczenie. Za przedmiot pracy magisterskiej wybrała temat 'Notariusz jako płatnik podatku od spadków i darowizn', co wiąże się z przedstawieniem pozycji notariusza, wyjaśnieniem dokonywanych przez niego czynności aż po dokładną analizę ustawy od spadków i darowizn.",
+               "Prywatnie miłośniczka długich spacerów, a w wolnej chwili mistrzyni słodkich wypieków."
+            ]
+         }
+      ]
+   },
+   "czynnosci": [
+      {
+         "nieruchomosci": {
+            "title": "Nieruchomości",
+            "subList": [
+               {
+                  "id": "nieruchomosci_Umowa_Sprzedaży",
+                  "title": "Umowa sprzedaży",
+                  "text": "Istotą umowy sprzedaży jest przejście własności, w zamian za zapłatę określonej ceny, gdyż zgodnie z kodeksem cywilnym, poprzez umowę  sprzedaży sprzedawca zobowiązuje się przenieść na kupującego własność rzeczy i wydać mu rzecz, a kupujący zobowiązuje się rzecz odebrać i zapłacić sprzedawcy cenę. Przy czym, gdy przedmiotem tej umowy jest nieruchomość w wyniku jej zawarcia własność tej rzeczy przechodzi  na nabywcę z chwilą podpisania umowy, bez konieczności przenoszenia dodatkowo posiadania. Zawarcie umowy sprzedaży w przypadku zbycia  nieruchomości wymaga formy aktu notarialnego."
+               },
+               {
+                  "id": "nieruchomosci_Umowa_Darowizny",
+                  "title": "Umowa darowizny",
+                  "text": "Darowizna jest umową nieodpłatną i jednostronnie zobowiązującą, gdyż zgodnie z kodeksem cywilnym przez umowę darowizny darczyńca zobowiązuje się do bezpłatnego świadczenia na rzecz obdarowanego kosztem swego majątku. Forma aktu notarialnego jest wymagana dla oświadczenia darczyńcy, jednakże powyższa reguła nie uchybia ogólnym zasadom dotyczącym formy dokonywania czynności notarialnej i w przypadku, gdy przedmiotem umowy darowizny jest nieruchomość oświadczenie zbywcy i nabywcy powinno zostać złożone w formie aktu notarialnego."
+               },
+               {
+                  "id": "nieruchomosci_Umowa_o_dożywocie",
+                  "title": "Umowa o dożywocie",
+                  "text": "Umową o dożywocie jest umowa, na podstawie której w zamian za przeniesienie własności nieruchomości nabywca zobowiązuje się zapewnić zbywcy dożywotnie utrzymanie. Istotą umowy jest więc zbycie nieruchomości przez osobę fizyczną, w celu zobowiązania drugiej strony do zapewnienia dożywotniego utrzymania - w formie opisu konkretnych świadczeń ustalonych przez strony lub też powielenia katalogu świadczeń określonego w art. 908 Kodeksu Cywilnego. Przedmiotem umowy może być wyłącznie nieruchomość gruntowa lub lokalowa, a formą właściwą do jej zawarcia jest akt notarialny."
+               },
+               {
+                  "id": "nieruchomosci_Umowa_zamiany",
+                  "title": "Umowa zamiany",
+                  "text": "Zgodnie z kodeksem cywilnym przez umowę zamiany każda ze stron zobowiązuje się przenieść na drugą stronę własność rzeczy w zamian za zobowiązanie się do przeniesienia własności innej rzeczy. W praktyce notarialnej najczęściej będą to przypadki zamiany nieruchomości lub innych praw (w tym spółdzielczego własnościowego prawa do lokalu i prawa użytkowania wieczystego gruntu). Do umów tego typu stosujesię odpowiednio przepisy kodeksu cywilnego dotyczące sprzedaży, a formą właściwą jest forma aktu notarialnego."
+               }
+            ]
+         }
+      },
+      {
+         "dziedziczenie": {
+            "title": "Dziedziczenie",
+            "subList": [
+               {
+                  "id": "dziedziczenie_Testament",
+                  "title": "Testament",
+                  "text": "Powołanie do spadku wynika z ustawy albo z testamentu, a dziedziczenie ustawowe co do całości spadku następuje wtedy, gdy spadkodawca nie zostawił testamentu albo gdy żadna z osób, które powołał, nie chce lub nie może być spadkobiercą. W celu rozdysponowania swoim majątkiem na wypadek śmierci należy sporządzić testament. Jedną z możliwych form jest testament w formie aktu notarialnego. Na podstawie testamentu notarialnego spadkodawca może powołać jednego lub wielu spadkobierców, a nadto uczynić zapis zwykły lub windykacyjny oraz wydziedziczyć konkretne osoby, pozbawiając ich prawa do zachowku."
+               },
+               {
+                  "id": "dziedziczenie_Otwarcie_i_ogłoszenie_testamentu",
+                  "title": "Otwarcie i ogłoszenie testamentu",
+                  "text": "W przypadku sporządzenia testamentu przez spadkodawcę, po jego śmierci sąd albo notariusz otwiera i ogłasza testament, gdy ma dowód śmierci spadkodawcy (akt zgonu). Notariusz dokonuje jego otwarcia i ogłoszenia w razie złożenia testamentu w Kancelarii Notarialnej, a z powyższej czynności sporządza protokół"
+               },
+               {
+                  "id": "dziedziczenie_Odrzucenie_lub_przyjęcie_spadku",
+                  "title": "Odrzucenie lub przyjęcie spadku",
+                  "text": "Spadek otwiera się z chwilą śmierci spadkodawcy. Zgodnie z Kodeksem Cywilnym spadkobierca może przyjąć spadek bez ograniczenia odpowiedzialności za długi (przyjęcie proste), bądź przyjąć spadek z ograniczeniem tej odpowiedzialności (przyjęcie z dobrodziejstwem inwentarza), bądź też spadek odrzucić. Właściwe oświadczenie można złożyć przed sądem lub notariuszem."
+               },
+               {
+                  "id": "dziedziczenie_Akt_Poświadczenia_Dziedziczenia",
+                  "title": "Akt Poświadczenia Dziedziczenia",
+                  "text": "Notariusz sporządza akt poświadczenia dziedziczenia ustawowego lub testamentowego, z wyłączeniem dziedziczenia na podstawie testamentów szczególnych, natomiast przed sporządzeniem aktu poświadczenia dziedziczenia notariusz spisuje protokół dziedziczenia przy udziale wszystkich osób zainteresowanych. Akt poświadczenia dziedziczenia, stanowi potwierdzenie praw do spadku oraz ma skutki prawomocnego postanowienia o stwierdzeniu nabycia spadku."
+               },
+               {
+                  "id": "dziedziczenie_Dział_spadku",
+                  "title": "Dział spadku",
+                  "text": "W przypadku uzyskania potwierdzenia nabycia spadku na podstawie aktu poświadczenia dziedziczenia lub prawomocnego postanowienia sądu w sprawie nabycia spadku, spadkobiercy mogą dokonać podziału masy spadkowej. Dział spadku może nastąpić bądź na mocy umowy między wszystkimi spadkobiercami, bądź na mocy orzeczenia sądu na żądanie któregokolwiek ze spadkobierców, natomiast gdy w skład spadku wchodzi nieruchomość, umowa o dział powinna być zawarta w formie aktu notarialnego."
+               },
+               {
+                  "id": "dziedziczenie_Umowa_zrzeczenia_się_dziedziczenia",
+                  "title": "Umowa zrzeczenia się dziedziczenia",
+                  "text": "Zasadą jest zakaz umów zawieranych pomiędzy spadkobiercą a spadkodawcą za ich życia, jednak wyjątek stanowi umowa o zrzeczenie się dziedziczenia, zgodnie z którą spadkobierca ustawowy może przez umowę z przyszłym spadkodawcą zrzec się dziedziczenia po nim. Jej skutki co do zasady rozciągają się na zstępnych spadkodawcy, a sama umowa dotyczy dziedziczenia ustawowego. Formą właściwą do jej zawarcia jest akt notarialny."
+               }
+            ]
+         }
+      },
+      {
+         "prawo-rodzinne": {
+            "title": "Prawo Rodzinne",
+            "subList": [
+               {
+                  "id": "prawo_rodzinne_Umowa_majątkowa",
+                  "title": "Umowa majątkowa",
+                  "text": "Zasadą wynikającą z przepisów jest wspólność ustawowa obowiązująca w stosunkach majątkowych między małżonkami, jednakże małżonkowie mogą przez umowę zawartą w formie aktu notarialnego wspólność ustawową rozszerzyć lub ograniczyć albo ustanowić rozdzielność majątkową lub rozdzielność majątkową z wyrównaniem dorobków (umowa majątkowa). Umowę tego typu mogą zawrzeć nupturienci, czyli przyszli małżonkowie przed zawarciem związku małżeńskiego. Najpopularniejszymi umowami zawieranymi między małżonkami są rozdzielność oraz rozdzielność z wyrównaniem dorobków."
+               },
+               {
+                  "id": "prawo_rodzinne_Zgoda_małżonka_w_trybie_art._37_kodeksu_rodzinnego_i_opiekuńczego",
+                  "title": "Zgoda małżonka w trybie art. 37 kodeksu rodzinnego i opiekuńczego",
+                  "text": {
+                     "mainText": "W przypadku, gdy w małżeństwie obowiązuje wspólność ustawowa na dokonanie niektórych czynności przez jednego z małżonków niezbędna jest zgoda drugiego małżonka, do czynności tych należą:",
+                     "assideText": [
+                        "Czynności prawne prowadzące do zbycia, obciążenia, odpłatnego nabycia nieruchomości lub użytkowania wieczystego, jak również prowadzące do oddania nieruchomości do używania lub pobierania z niej pożytków;",
+                        "Czynności prawne prowadzące do zbycia, obciążenia, odpłatnego nabycia prawa rzeczowego, którego przedmiotem jest budynek lub lokal;",
+                        "Czynności prawne prowadzące do zbycia, obciążenia, odpłatnego nabycia i wydzierżawienia gospodarstwa rolnego lub przedsiębiorstwa;",
+                        "Darowizny z majątku wspólnego, z wyjątkiem drobnych darowizn zwyczajowo przyjętych, w przypadku gdy przedmiotem tych umów jest nieruchomość formą właściwą do wyrażenia zgody przez małżonka jest forma aktu notarialnego."
+                     ]
+                  }
+               },
+               {
+                  "id": "prawo_rodzinne_Podział majątku wspólnego małżonków",
+                  "title": "Podział majątku wspólnego małżonków",
+                  "text": "Zasadą jest, że w czasie trwania wspólności ustawowej żaden z małżonków nie może żądać podziału majątku wspólnego oraz nie może również rozporządzać ani zobowiązywać się do rozporządzania udziałem, który w razie ustania wspólności przypadnie mu w majątku wspólnym lub w poszczególnych przedmiotach należących do tego majątku. Podziału majątku wspólnego małżonków można dokonać po ustaniu wspólności majątkowej – poprzez wprowadzenie umową rozdzielności majątkowej lub po rozwodzie małżonków. W przypadku, gdy w skład majątku wspólnego wchodzi nieruchomość formą właściwą dokonania czynności jest forma aktu notarialnego."
+               }
+            ]
+         }
+      },
+      {
+         "spolki": {
+            "title": "Spółki i inne Osoby Prawne",
+            "subList": [
+               {
+                  "id": "spolki_Umowa spółki",
+                  "title": "Umowa spółki",
+                  "text": "Notariusz może sporządzić umowę spółki, zgodnie z założeniami i postanowienia stron czynności. Natomiast forma aktu notarialnego wymagana jest dla sporządzenia umowy spółki komandytowej, spółki komandytowo-akcyjnej, spółki z ograniczoną odpowiedzialnością oraz spółki akcyjnej. Natomiast notariusz może sporządzić również umowę innej spółki, w tym przypadku każdorazowa zmiana postanowień tej umowy również wymaga formy aktu notarialnego."
+               },
+               {
+                  "id": "spolki",
+                  "title": "Protokół",
+                  "text": "Notariusz spisuje protokoły zgromadzenia wspólników/ walnych zgromadzeń organizacji społecznych, stowarzyszeń, spółdzielni, spółek i innych osób prawnych w przypadkach prawem przewidzianych. Notariusz może sporządzić protokół powyższych czynności, gdy wymaga tego przepis prawa np. zmiana umowy spółki z ograniczoną odpowiedzialnością, a także na żądanie podmiotu uprawnionego."
+               }
+            ]
+         }
+      },
+      {
+         "inne": {
+            "title": "Inne",
+            "subList": [
+               {
+                  "id": "inne_Depozyt_notarialny",
+                  "title": "Depozyt notarialny",
+                  "text": "Jedną z form zabezpieczenia płatności ceny sprzedaży jest depozyt notarialny. Notariusz w związku z dokonywaną w jego kancelarii czynnością ma prawo przyjąć na przechowanie, w celu wydania ich osobie wskazanej przy złożeniu lub jej następcy prawnemu, między innymi pieniądze. Dla udokumentowania tych czynności notariusz prowadzi specjalne konto bankowe oraz z przyjęcia depozytu notariusz spisuje protokół, w którym wymienia datę przyjęcia, ustala tożsamość osoby składającej, datę mającego nastąpić wydania oraz imię, nazwisko i miejsce zamieszkania osoby odbierającej depozyt, a wydanie depozytu następuje za pokwitowaniem. Depozyt notarialny jest dodatkowym zabezpieczeniem zapłaty nie tylko ceny sprzedaży, ale także innych świadczeń pieniężnych ustalonych przez strony. Jest to obecnie jedna z form zabezpieczenia zyskująca dużą popularność."
+               },
+               {
+                  "id": "inne_Oświadczenie_o_poddaniu_się_egzekucji",
+                  "title": "Oświadczenie o poddaniu się egzekucji",
+                  "text": "Dobrowolne poddanie się egzekucji pozwala na uzyskanie tytułu egzekucyjnego bez potrzeby wszczynania sporu sądowego w postępowaniu procesowym, natomiast akt notarialny może stanowić tytuł egzekucyjny. Oświadczenie może obejmować poddanie egzekucji co do wydania przedmiotu lub zapłaty określonej ceny. W umowach sprzedaży jest standardowym minimalnym zabezpieczeniem dla stron, jednak stosowane jest także w innych formach świadczeń pieniężnych np. umowy najmu, umowy pożyczki, umowy kredytu."
+               },
+               {
+                  "id": "inne_Poświadczenia",
+                  "title": "Poświadczenia",
+                  "text": "Notariusz poświadcza własnoręczność podpisu pod dokumentem, zgodność odpisu, wyciągu lub kopii z okazanym dokumentem, datę okazania dokumentu oraz pozostawanie osoby przy życiu lub w określonym miejscu."
+               }
+            ]
+         }
+      }
+   ],
+   "oplaty": [
+      {
+         "mainText": "Notariusz w związku z dokonywanymi czynnościami, jako płatnik pobiera i przekazuje odpowiednim urzędowi i sądom:",
+         "assideText": [
+            { "text": "podatek od czynności cywilnoprawnych", "downloadLink": "#" },
+            { "text": "podatek od podatków i darowizn", "downloadLink": "#" },
+            { "text": "opłaty sądowe", "downloadLink": "#" }
+         ]
+      },
+      {
+         "mainText": "Powyższe podatki i opłaty muszą być zaksięgowane na rachunku bankowym Kancelarii Notarialnej przed dokonaniem czynności lub wpłacone gotówką w Kancelarii podczas spotkania."
+      },
+      {
+         "mainText": "Notariuszowi za dokonanie czynności notarialnych przysługuje wynagrodzenie określone na podstawie umowy ze stronami czynności, nie wyższe niż maksymalne stawki taksy notarialnej właściwe dla danej czynności, na podstawie art. 5 ustawy Prawo o notariacie. Wynagrodzenie szczegółowo określa Rozporządzenie Ministra Sprawiedliwości w sprawie maksymalnych sta-wek taksy notarialnej (pobierz)."
+      },
+      {
+         "mainText": "Przykładowe koszty jakie poniesie nabywca przy zakupie mieszkania za cenę 300 tys. zł (zgodnie z maksymalnymi stawkami taksy notarialnej):",
+         "assideTextList": [
+            "podatek od czynności cywilnoprawnych (2%): 6.000,00 zł",
+            "opłata sądowa (za wpis własności): 200,00 zł",
+            "wniosek wieczystoksięgowy: 246,00 zł",
+            "taksa notarialna brutto (w tym 23% vat): 1.211,55 zł",
+            "taksa notarialna brutto za wypisy: ok. 220,00 zł"
+         ]
+      },
+      {
+         "mainText": "W celu ustalenia wysokości opłat, które są po-bierane w naszej Kancelarii prosimy o kontakt telefoniczny lub mailowy z Kancelarią. Z chęcią odpowiemy na Państwa pytania."
+      }
+   ],
+   "czytelnia": [
+      {
+         "id": "Id-1",
+         "pageHref": "tytul-1",
+         "title": "Lorem ipsum dolor sit amet.",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_1.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-2",
+         "pageHref": "tytul-2",
+         "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_5.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-3",
+         "pageHref": "tytul-3",
+         "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nobis, sapiente?",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_3.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-4",
+         "pageHref": "tytul-4",
+         "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Debitis voluptas vel quae facilis et!",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_4.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-5",
+         "pageHref": "tytul-5",
+         "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, temporibus tempora reiciendis debitis eaque unde ut quo quibusdam?",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_2.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-6",
+         "pageHref": "tytul-6",
+         "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut nemo doloremque reiciendis, illo perspiciatis facilis labore sunt modi illum itaque.",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_6.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-7",
+         "pageHref": "tytul-7",
+         "title": "Tytuł_7",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_3.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-8",
+         "pageHref": "tytul-8",
+         "title": "Tytuł_8",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_5.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-9",
+         "pageHref": "tytul-9",
+         "title": "Tytuł_9",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_3.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      },
+      {
+         "id": "Id-10",
+         "pageHref": "tytul-10",
+         "title": "Tytuł_10",
+         "imgSrc": "/img/pagesPictures/czytelnia/Tytuł_1.jpg",
+         "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?",
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, tempore?",
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione quaerat vitae, reiciendis perferendis maxime unde eius. Magnam quisquam voluptatum error necessitatibus quis laudantium consectetur obcaecati alias totam iusto? Dolore, tempore?"
+         ]
+      }
+   ],
+   "rodo": {
+      "heading": "Klauzula informacyjna dla klienta Kancelarii Notarialnej",
+      "mainText": "Zgodnie z art. 13 ust. 1 i ust. 2 ogólnego rozporządzenia o ochronie danych osobowych z dnia 27 kwietnia 2016 r. (RODO) informujemy, iż: ",
+      "liText": [
+         "administratorem Pani/Pana danych osobowych jest Kancelaria Notarialna A. Świergot, K. Pawełczyk s.c. w Katowicach, przy ulicy Sokolskiej 30/U11, nr telefonu 32/ 257-01-48, adres e-mail biuro@notariusze-sokolska.pl (dalej jako „ADO”).",
+         "Pani/Pana dane osobowe przetwarzane będą w celu realizacji obowiązku ustawowego wynikającego z ustawy z dnia 14 lutego 1991 r. Prawo o notariacie oraz innych ustaw związanych z dokonywaniem czynności notarialnych,",
+         "odbiorcą Pani/Pana danych osobowych będą stosowne osoby, podmioty, urzędy, organy rządowe i samorządowe, określone przepisami ustaw związanych z dokonywanymi czynnościami notarialnymi;",
+         "Pani/Pana dane osobowe będą przechowywane przez okres niezbędny do wygaśnięcia roszczeń o charakterze cywilnoprawnym lub upływu 10 lat licząc od dnia dokonania czynności, na podstawie art. 90 § 1 ustawy Prawo o notariacie;",
+         "przysługuje Pani/Panu prawo dostępu do swoich danych osobowych, prawo do żądania poprawienia, usunięcia lub ograniczenia przetwarzania tych danych – przy uwzględnieniu ograniczeń wynikających z RODO, w szczególności z art. 17 ust. 3 RODO,",
+         "Pani/Pana dane osobowe nie będą przekazywane do państwa trzeciego/organizacji międzynarodowej,",
+         "ma Pan/Pani prawo wniesienia skargi do organu nadzoru, gdy uzna Pani/Pan, iż przetwarzanie danych osobowych Pani/Pana dotyczących narusza przepisy,",
+         "podanie przez Pana/Panią danych osobowych jest wymogiem ustawowym. Jest Pan/Pani zobowiązana do ich podania, a konsekwencją niepodania danych osobowych będzie niemożliwość dokonania czynności notarialnej,",
+         "do czasu dokonania czynności notarialnej, z przyczyn związanych z Pani/Pana indywidualną sytuacją, przysługuje Pani/Panu prawo wniesienia sprzeciwu przeciwko przetwarzaniu danych,",
+         "w dowolnym momencie ma Pan/Pani prawo cofnąć udzieloną zgodę, co pozostaje jednak bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem,",
+         "Pani/Pana dane nie będą przetwarzane w sposób zautomatyzowany, w tym również w formie profilowania."
+      ]
+   },
+   "kontakt": [
+      {
+         "heading": "Godziny urzędowania / otwarcia kancelarii notarialnej",
+         "text": [
+            "Nasze biuro notarialne jest czynne od poniedziałku do piątku.",
+            "poniedziałek w godzinach od 9:00 do 19:00",
+            "od wtorku do piątku w godzinach 9:00 0 17:00.",
+            "Jesteśmy otwarci na potrzeby osób, które się do nas zgłaszają. Wobec czego czynności notarialne dokonywane są nie tylko w godzinach urzędowania Kancelarii Notarialnej lecz także w innych terminach ustalanych indywidualnie."
+         ]
+      },
+      {
+         "heading": "Parkingi",
+         "text": [
+            "Miejsca postojowe przed budynkiem – przeznaczone dla klientów Kancelarii",
+            "Parking przy banku ING Bank Śląski przy ulicy Sokolskiej numer 34 – sąsiadujący z naszym budynkiem",
+            "Parking miejski – wzdłuż ulicy Sokolskiej Parking centrum handlowego „Supersam” – odległość 150 m od naszego budynku"
+         ]
+      },
+      {
+         "heading": "Przystanki",
+         "text": [
+            "Dostępność przystanków PKS przed budynkiem (przystanek „Katowice Sokolska”) oraz dworzec PKP w niewielkiej odległości.",
+            "Notariusze świadczą usługi w siedzibie naszej Kancelarii w Katowicach.",
+            "Jesteśmy uprawnieni do dokonywania czynności notarialnych również w innym miejscu, jeżeli przemawia za tym jej charakter lub szczególne okoliczności."
+         ]
+      }
+   ]
+}

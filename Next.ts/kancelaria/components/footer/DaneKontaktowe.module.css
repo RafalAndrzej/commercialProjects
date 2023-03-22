@@ -1,0 +1,6 @@
+.dane-firmy > p {
+   padding: 0.2rem 0;
+}
+.dane-firmy div:not(:first-of-type) {
+   padding: 0.2rem 0;
+}

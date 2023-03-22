@@ -1,0 +1,28 @@
+.wrapper {
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: column;
+   align-items: flex-start;
+   justify-content: space-between;
+   margin: 0 auto;
+}
+
+.wrapper:not(:first-of-type) {
+   margin-top: 2rem;
+}
+
+@media screen and (min-width: 600px) {
+   .wrapper {
+      flex-direction: row;
+      column-gap: 3rem;
+      align-items: flex-start;
+   }
+}
+
+@media screen and (max-width: 599px) {
+   .wrapper {
+      row-gap: 1.5rem;
+      align-items: center;
+      max-width: 40rem;
+   }
+}

@@ -1,0 +1,14 @@
+.menuList,
+.linkList {
+   list-style: none;
+   margin-top: 2rem;
+}
+.menuList li {
+   margin: 0.8rem 0;
+   font-size: var(--fz-menuList);
+}
+
+.linkList li {
+   margin: 0.5rem 0;
+   font-weight: 500;
+}
