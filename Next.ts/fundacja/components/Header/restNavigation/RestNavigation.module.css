@@ -1,0 +1,62 @@
+.change-font-size,
+.change-color-sheme {
+   display: flex;
+   flex-wrap: nowrap;
+   align-items: center;
+   column-gap: 0.4rem;
+}
+
+.change-font-size > button,
+.change-color-sheme > button {
+   cursor: pointer;
+   width: 1.5rem;
+   height: 1.5rem;
+   border: var(--frame-border-color);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: transparent;
+}
+
+.change-font-size > button span {
+   color: var(--main-text-color);
+   overflow: hidden;
+}
+
+.change-font-size > button:first-of-type span {
+   font-size: 0.6rem;
+}
+.change-font-size > button:last-of-type span {
+   font-size: 1.2rem;
+   font-weight: 700;
+}
+
+.change-color-sheme > button:first-of-type {
+   position: relative;
+   background-color: var(--main-color);
+}
+.change-color-sheme > button:first-of-type::after {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   clip-path: polygon(0 0, 0% 100%, 100% 0);
+   background-color: #f8f9fa;
+}
+
+.change-color-sheme > button:last-of-type {
+   position: relative;
+   background-color: var(--helper-color);
+}
+.change-color-sheme > button:last-of-type::after {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   clip-path: polygon(0 0, 0% 100%, 100% 0);
+   background-color: black;
+}

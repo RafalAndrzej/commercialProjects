@@ -1,0 +1,13 @@
+.box {
+   display: flex;
+   flex-wrap: nowrap;
+   align-items: center;
+   margin-left: 1rem;
+}
+
+.box a {
+   position: relative;
+   display: block;
+
+   padding: 0.8rem 0.5rem;
+}

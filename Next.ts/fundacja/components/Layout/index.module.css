@@ -1,0 +1,80 @@
+.page-position > * {
+   margin: 0 auto;
+   width: 90vw;
+}
+
+.overflow-hidden {
+   overflow: hidden;
+}
+
+.main-box {
+   position: relative;
+   border-right: var(--frame-border-color);
+}
+.main-box::after {
+   content: '';
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   width: 20vw;
+   border-bottom: var(--frame-border-color);
+}
+
+/* Mobil menu is open */
+.menuIsOpen {
+   display: flex;
+
+   height: 3000px;
+}
+
+.opening {
+   animation: assideMenuOpen 0.2s linear forwards;
+}
+@keyframes assideMenuOpen {
+   0% {
+      transform: translateX(-180px);
+   }
+   100% {
+      transform: translateX(0);
+   }
+}
+.closing {
+   animation: assideMenuClose 0.2s linear forwards;
+}
+@keyframes assideMenuClose {
+   0% {
+      transform: translateX(0);
+   }
+   100% {
+      transform: translateX(-180px);
+   }
+}
+
+.menuIsOpen ul {
+   flex-direction: column;
+   align-items: start;
+   align-self: center;
+}
+
+.menuIsOpen ul > a::after {
+   border-radius: unset;
+   width: 90%;
+   transform: translateX(-50%);
+   bottom: 0;
+   height: 2px;
+   animation: opacityAnimation 0.6s linear forwards;
+}
+@keyframes opacityAnimation {
+   0% {
+      opacity: 0;
+      transform: translate(-50%, 5px);
+   }
+   30% {
+      opacity: 0.6;
+      transform: translate(-50%, -2px);
+   }
+   100% {
+      opacity: 1;
+      transform: translate(-50%, 1px);
+   }
+}

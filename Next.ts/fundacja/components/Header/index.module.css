@@ -1,0 +1,10 @@
+.header-box {
+   display: flex;
+   flex-wrap: nowrap;
+   align-items: center;
+   column-gap: 0.5rem;
+
+   font-size: 0.8rem;
+
+   border-bottom: var(--frame-border-color);
+}
