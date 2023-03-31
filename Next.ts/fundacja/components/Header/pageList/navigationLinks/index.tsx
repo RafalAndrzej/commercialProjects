@@ -18,7 +18,12 @@ const NavigationLinks: React.FC<{ href: string } & PropsChildren> = ({ href, chi
 
    const className =
       router.pathname.slice(1).toLocaleLowerCase() ===
-         children?.toString().toLocaleLowerCase().replaceAll(' ', '') ||
+         children
+            ?.toString()
+            .toLocaleLowerCase()
+            .replaceAll(' ', '')
+            .replaceAll('ó', 'o')
+            .replaceAll('ę', 'e') ||
       (router.pathname === '/' &&
          children?.toString().toLocaleLowerCase().replaceAll(' ', '') === 'stronagłówna')
          ? classes.active
@@ -49,8 +54,11 @@ const NavigationLinks: React.FC<{ href: string } & PropsChildren> = ({ href, chi
          siblings
             .find(
                (el) =>
-                  el.innerHTML.toLocaleLowerCase().replaceAll(' ', '') ===
-                  router.pathname.slice(1).toLocaleLowerCase()
+                  el.innerHTML
+                     .toLocaleLowerCase()
+                     .replaceAll(' ', '')
+                     .replaceAll('ó', 'o')
+                     .replaceAll('ę', 'e') === router.pathname.slice(1).toLocaleLowerCase()
             )
             ?.classList.add(classes.active);
       }

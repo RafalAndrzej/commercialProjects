@@ -1,0 +1,32 @@
+.konto {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   row-gap: 1rem;
+}
+
+.box {
+   padding: 2rem;
+   border: solid 4px var(--main-color);
+   border-radius: 1rem;
+   flex-basis: 40%;
+   min-width: 300px;
+}
+
+.box > *:first-child,
+.box span {
+   color: var(--main-color);
+}
+.box > *:first-child {
+   display: flex;
+   align-items: center;
+   column-gap: 0.5rem;
+}
+
+.box > *:nth-child(1n + 2) {
+   margin-top: 1rem;
+}
+.opis > *:not(:nth-child(1)) {
+   margin-top: 1rem;
+   line-height: 1.5rem;
+}

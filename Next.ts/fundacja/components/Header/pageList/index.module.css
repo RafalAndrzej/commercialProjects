@@ -1,5 +1,7 @@
 .box {
    display: flex;
+   flex-grow: 1;
+   justify-content: space-evenly;
    flex-wrap: nowrap;
    align-items: center;
    margin-left: 1rem;

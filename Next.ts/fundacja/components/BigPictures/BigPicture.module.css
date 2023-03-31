@@ -1,0 +1,23 @@
+.main-section {
+   width: 90vw;
+   max-height: max-content;
+
+   display: flex;
+   column-gap: 1rem;
+   overflow: hidden;
+}
+
+@media screen and (min-width: 1000px) {
+   .main-section > div {
+      width: 50%;
+   }
+}
+
+.image {
+   position: relative;
+   height: 500px;
+}
+
+.image img {
+   object-fit: cover;
+}

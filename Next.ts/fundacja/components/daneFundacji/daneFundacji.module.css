@@ -1,0 +1,16 @@
+.dane > * {
+   margin: 0.6rem;
+}
+
+.dane > h2 span,
+.dane > h3 {
+   text-transform: uppercase;
+}
+
+.dane > h3 span {
+   text-transform: none;
+}
+
+.dane h2 {
+   color: var(--main-color);
+}

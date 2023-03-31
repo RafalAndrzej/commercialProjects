@@ -1,6 +1,20 @@
-.page-position > * {
+.page-size {
+   min-height: 100vh;
+}
+
+.page-position {
    margin: 0 auto;
-   width: 90vw;
+}
+
+@media screen and (min-width: 900px) {
+   .page-position {
+      width: 90vw;
+   }
+}
+@media screen and (max-width: 900px) {
+   .page-position {
+      width: 95vw;
+   }
 }
 
 .overflow-hidden {
@@ -23,8 +37,6 @@
 /* Mobil menu is open */
 .menuIsOpen {
    display: flex;
-
-   height: 3000px;
 }
 
 .opening {

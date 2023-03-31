@@ -35,19 +35,27 @@ const Layout: React.FC<PropsChildren> = ({ children }) => {
                <PageList />
             </AsideMenu>
             <div
-               className={`${fontFamily.className} ${classes['page-position']} ${classes['overflow-hidden']} ${classes.opening}`}
+               className={`${classes['page-size']} ${fontFamily.className} ${classes['page-position']} ${classes['overflow-hidden']} ${classes.opening}`}
                onClick={closingMobilMenu}>
                <Header />
-               <main className={classes['main-box']}>{children}</main>
+               <main className={classes['main-box']}>
+                  {children}
+                  <footer>Footer</footer>
+               </main>
             </div>
          </div>
       );
    } else {
       return (
-         <div className={`${fontFamily.className} ${classes['page-position']}`}>
-            <Header />
-            <main className={classes['main-box']}>{children}</main>
-         </div>
+         <>
+            <div className={`${classes['page-size']} ${fontFamily.className} ${classes['page-position']}`}>
+               <Header />
+               <main className={classes['main-box']}>
+                  {children}
+                  <footer>Footer</footer>
+               </main>
+            </div>
+         </>
       );
    }
 };

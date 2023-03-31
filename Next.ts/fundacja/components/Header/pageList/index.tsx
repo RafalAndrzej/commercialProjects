@@ -6,10 +6,10 @@ const PageList: React.FC = () => {
       <ul className={classes.box}>
          <NavigationLinks href={'/'}>Strona główna</NavigationLinks>
          <NavigationLinks href={'/oFundacji'}>O Fundacji</NavigationLinks>
-         <NavigationLinks href={'/ChcęPomóc'}>Chcę pomóc</NavigationLinks>
-         <NavigationLinks href={'/JakPomagamy'}>Jak pomagamy</NavigationLinks>
-         <NavigationLinks href={'/Darczyńcy'}>Darczyńcy</NavigationLinks>
-         <NavigationLinks href={'/Kontakt'}>Kontakt</NavigationLinks>
+         <NavigationLinks href={'/chcePomoc'}>Chcę pomóc</NavigationLinks>
+         <NavigationLinks href={'/jakPomagamy'}>Jak pomagamy</NavigationLinks>
+         <NavigationLinks href={'/darczyńcy'}>Darczyńcy</NavigationLinks>
+         <NavigationLinks href={'/kontakt'}>Kontakt</NavigationLinks>
       </ul>
    );
 };
