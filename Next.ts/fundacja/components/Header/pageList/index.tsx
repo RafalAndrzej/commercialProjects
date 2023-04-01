@@ -8,7 +8,7 @@ const PageList: React.FC = () => {
          <NavigationLinks href={'/oFundacji'}>O Fundacji</NavigationLinks>
          <NavigationLinks href={'/chcePomoc'}>Chcę pomóc</NavigationLinks>
          <NavigationLinks href={'/jakPomagamy'}>Jak pomagamy</NavigationLinks>
-         <NavigationLinks href={'/darczyńcy'}>Darczyńcy</NavigationLinks>
+         <NavigationLinks href={'/darczyncy'}>Darczyńcy</NavigationLinks>
          <NavigationLinks href={'/kontakt'}>Kontakt</NavigationLinks>
       </ul>
    );

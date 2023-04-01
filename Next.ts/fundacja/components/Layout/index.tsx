@@ -11,6 +11,7 @@ import AsideMenu from './AsideMenu';
 import { PropsChildren } from '../../types/globalTypes';
 import classes from './index.module.css';
 import assideClass from './AsideMenu.module.css';
+import Footer from '../footer/Footer';
 
 const Layout: React.FC<PropsChildren> = ({ children }) => {
    const mobileMenuCtx = useContext(MobileMenuContext);
@@ -40,7 +41,7 @@ const Layout: React.FC<PropsChildren> = ({ children }) => {
                <Header />
                <main className={classes['main-box']}>
                   {children}
-                  <footer>Footer</footer>
+                  <Footer />
                </main>
             </div>
          </div>
@@ -52,7 +53,7 @@ const Layout: React.FC<PropsChildren> = ({ children }) => {
                <Header />
                <main className={classes['main-box']}>
                   {children}
-                  <footer>Footer</footer>
+                  <Footer />
                </main>
             </div>
          </>

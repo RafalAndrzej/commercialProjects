@@ -17,12 +17,12 @@
    display: flex;
    align-items: center;
 
-   padding: 1rem 0;
+   height: 90px;
    color: var(--main-color);
    letter-spacing: 0.2rem;
    font-style: italic;
    font-size: 2rem;
-   background: linear-gradient(90deg, var(--background-color) 5%, var(--main-color));
+   background: linear-gradient(90deg, var(--background-color) 5%, var(--main-color-lighter));
 }
 
 .text * {
@@ -40,7 +40,7 @@
 
 .img {
    position: relative;
-   height: 200px;
+   height: 250px;
 }
 
 .img img {

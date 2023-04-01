@@ -6,7 +6,7 @@
 }
 
 .box-header > :not(.img) {
-   background: linear-gradient(90deg, var(--background-color) 5%, var(--main-color));
+   background: linear-gradient(90deg, var(--background-color) 5%, var(--main-color-lighter));
 }
 
 .box-header h1 {

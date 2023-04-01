@@ -1,0 +1,9 @@
+.box {
+   margin-top: 3rem;
+   padding-bottom: 1.5rem;
+   text-align: center;
+}
+
+.box span {
+   color: var(--second-color);
+}

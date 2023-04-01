@@ -24,6 +24,7 @@
 .main-box {
    position: relative;
    border-right: var(--frame-border-color);
+   margin-bottom: 2rem;
 }
 .main-box::after {
    content: '';

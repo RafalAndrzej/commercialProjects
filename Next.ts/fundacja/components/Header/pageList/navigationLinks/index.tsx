@@ -16,14 +16,15 @@ const NavigationLinks: React.FC<{ href: string } & PropsChildren> = ({ href, chi
    const deviceCtx = useContext(DeviceContext);
    const mobileMenuCtx = useContext(MobileMenuContext);
 
-   const className =
+   const currentClassName =
       router.pathname.slice(1).toLocaleLowerCase() ===
          children
             ?.toString()
             .toLocaleLowerCase()
             .replaceAll(' ', '')
             .replaceAll('ó', 'o')
-            .replaceAll('ę', 'e') ||
+            .replaceAll('ę', 'e')
+            .replaceAll('ń', 'n') ||
       (router.pathname === '/' &&
          children?.toString().toLocaleLowerCase().replaceAll(' ', '') === 'stronagłówna')
          ? classes.active
@@ -58,7 +59,8 @@ const NavigationLinks: React.FC<{ href: string } & PropsChildren> = ({ href, chi
                      .toLocaleLowerCase()
                      .replaceAll(' ', '')
                      .replaceAll('ó', 'o')
-                     .replaceAll('ę', 'e') === router.pathname.slice(1).toLocaleLowerCase()
+                     .replaceAll('ę', 'e')
+                     .replaceAll('ń', 'n') === router.pathname.slice(1).toLocaleLowerCase()
             )
             ?.classList.add(classes.active);
       }
@@ -78,7 +80,7 @@ const NavigationLinks: React.FC<{ href: string } & PropsChildren> = ({ href, chi
    if (deviceCtx.deviceTypeIsPhone) {
       return (
          <Link
-            className={className}
+            className={currentClassName}
             href={href}
             onClick={(event: React.MouseEvent<HTMLAnchorElement> | React.MouseEvent<HTMLDivElement>) => {
                mouseClickFn(event as React.MouseEvent<HTMLAnchorElement>);
@@ -91,7 +93,7 @@ const NavigationLinks: React.FC<{ href: string } & PropsChildren> = ({ href, chi
       //Desktop device
       return (
          <Link
-            className={className}
+            className={currentClassName}
             href={href}
             onMouseEnter={mouseOverHandlerFn}
             onMouseLeave={mouseLeaveHandlerFn}>

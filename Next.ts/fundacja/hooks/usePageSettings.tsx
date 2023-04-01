@@ -8,8 +8,8 @@ function usePageSettings() {
    const helperCtx = useContext(HelperContext);
 
    useEffect(() => {
-      deviceCtx.setDeviceTypeIsPhone(window.innerWidth < 1000);
-      window.addEventListener('resize', () => deviceCtx.setDeviceTypeIsPhone(window.innerWidth < 1000));
+      deviceCtx.setDeviceTypeIsPhone(window.innerWidth < 800);
+      window.addEventListener('resize', () => deviceCtx.setDeviceTypeIsPhone(window.innerWidth < 800));
 
       // Adding contrast to page
       helperCtx.helperColor
@@ -20,7 +20,7 @@ function usePageSettings() {
       document.documentElement.style.setProperty('--pageFontSize', helperCtx.fontSize + 'px');
 
       return () => {
-         window.removeEventListener('resize', () => deviceCtx.setDeviceTypeIsPhone(window.innerWidth < 1000));
+         window.removeEventListener('resize', () => deviceCtx.setDeviceTypeIsPhone(window.innerWidth < 800));
       };
    }, [deviceCtx, helperCtx]);
 }
