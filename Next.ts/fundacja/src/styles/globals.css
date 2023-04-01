@@ -1,6 +1,7 @@
 :root {
    --main-color: #6f2280;
    --main-color-lighter: #a97ab3;
+
    --second-color: #d60c5d;
    --second-color-lighter: #de3d7d;
 
@@ -19,7 +20,9 @@
 [helper-color='true'] {
    --main-color: #e877a4;
    --main-color-lighter: #591b66;
+
    --second-color: #e877a4;
+   --second-color-lighter: #6b062f;
 
    --frame-border-color: 1px solid #e877a4;
    --normal-color: #f8f9fa;

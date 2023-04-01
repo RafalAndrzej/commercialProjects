@@ -41,8 +41,11 @@ const Layout: React.FC<PropsChildren> = ({ children }) => {
                <Header />
                <main className={classes['main-box']}>
                   {children}
-                  <Footer />
+                  <div className={classes.box}>
+                     <strong>Razem jesteśmy w stanie pomagać</strong> - <span>dziękujemy!</span>
+                  </div>
                </main>
+               <Footer />
             </div>
          </div>
       );
@@ -53,8 +56,11 @@ const Layout: React.FC<PropsChildren> = ({ children }) => {
                <Header />
                <main className={classes['main-box']}>
                   {children}
-                  <Footer />
+                  <div className={classes.box}>
+                     <strong>Razem jesteśmy w stanie pomagać</strong> - <span>dziękujemy!</span>
+                  </div>
                </main>
+               <Footer />
             </div>
          </>
       );
